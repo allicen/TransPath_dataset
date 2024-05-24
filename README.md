@@ -30,11 +30,11 @@
 
 Визуализация спутниковых данных: 
 
-![Visual dem](img/dem-rgb.jpg)
+<img src="./img/dem-rgb.jpg" width="600">
 
 Визуализация gt-разметки:
 
-![Visual gt](img/gt.png)
+<img src="./img/gt.png" width="600">
 
 Обозначения на рисунках: 
 - Треугольник - начало пути (точка старта).
