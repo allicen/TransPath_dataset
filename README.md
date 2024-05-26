@@ -22,7 +22,7 @@
 - источник RGB-изображений [Esri.WorldImagery](https://www.esri.com/en-us/capabilities/imagery-remote-sensing/capabilities/content)
 - источник DEM-изображений [Earthdata.nasa](https://www.earthdata.nasa.gov/sensors/srtm)
 - Размер одного изображения 128х128 px
-- Строна изображения 128 px - это фактические 50 км на местности
+- Строна изображения 128 px - это фактические 50 км на местности (0.1 градус)
 - В наборе train 500 изображений, test - 250 изображений, val - 250 изображений
 - В наборах *_focal.npz на каждое изображение создано по 10 изображений с gt-разметкой и точками старта и финиша
 
